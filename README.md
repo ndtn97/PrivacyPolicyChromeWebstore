@@ -1,2 +1,2 @@
 # Privacy Policy
-We does not collect your personal information.
+We do not collect any information.
